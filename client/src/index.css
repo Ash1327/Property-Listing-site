@@ -222,6 +222,9 @@ body.dark .btn-secondary:hover {
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   overflow: hidden;
   transition: box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 body.dark .property-card {
@@ -253,6 +256,9 @@ body.dark .property-card {
 
 .property-content {
   padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
 .property-title {
@@ -302,6 +308,7 @@ body.dark .property-location {
   -webkit-box-orient: vertical;
   overflow: hidden;
   word-wrap: break-word;
+  flex-grow: 1;
 }
 
 body.dark .property-description {
