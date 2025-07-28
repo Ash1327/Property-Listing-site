@@ -2,7 +2,7 @@
 
 A modern React TypeScript application with Express.js API for managing and displaying property listings with a beautiful, responsive UI and dark mode support.
 
-## Demo link
+## Live URL
 Link : https://proplisting.netlify.app/
 
 ## 🚀 Quick Start
