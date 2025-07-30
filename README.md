@@ -5,6 +5,8 @@ A modern React TypeScript application with Express.js API for managing and displ
 ## Live URL
 Link : https://proplisting.netlify.app/
 
+NOTE : After clicking on the link, please wait for atleast 50-60 sec to fetch api as free server is used so it may take time
+
 ## 🚀 Quick Start
 
 ### Single Command Setup
